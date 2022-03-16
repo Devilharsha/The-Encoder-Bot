@@ -13,7 +13,7 @@ I can Encode Any Video or File in Negligible Quality
 
 Use Help Command to Know How to Use me
 
-Made With 💕 By @Tellybots_4u
+Made With 💕 By @harshahero
 """
     HELP_TEXT = """
 Recommended
@@ -25,20 +25,20 @@ Delete Thumbnail
 Set Thumbnail
 ➠ Reply To Photo With /sthumb To Save Thumbnail
 
-Made With 💕 By @Tellybots_4u
+Made With 💕 By @harshahero
 """
     ABOUT_TEXT = """
 🤖 My Name : Media-Encoder-Bot\n
-🚦 Version : <a href='https://telegram.me/tellybots_4u'>2.0</a>\n
-💫 Source Code : <a href='https://t.me/tellybots_digital'>Click Here</a>\n
+🚦 Version : <a href='https://telegram.me/SENKUCHAT'>2.0</a>\n
+💫 Source Code : <a href='https://t.me/SENKUBOTS'>Click Here</a>\n
 🗃️ Library : <a href='https://pyrogram.org'>Click Here</a>\n
-👲 Developer : <a href='https://telegram.me/tellybots_4u'>TellyBots_4u</a>\n
-📦 Last Updated : <a href='https://telegram.me/tellybots_4u'>[ 15-Dec-21 ] 15:00 PM</a>"""
+👲 Developer : <a href='https://telegram.me/SENKUBOTS'>SENKUBOTS</a>\n
+📦 Last Updated : <a href='https://telegram.me/SENKUBOTS'>[ 15-Dec-21 ] 15:00 PM</a>"""
 
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/tellybots_4u'),
-        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/SENKUBOTS'),
+        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/SENKUCHAT')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
         InlineKeyboardButton('⛔ Close', callback_data='close')
